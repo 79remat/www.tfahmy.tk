@@ -1,0 +1,4 @@
+
+User-agent: *
+Disallow: 
+Sitemap: https://www.tfahmy.tk/sitemap.xml
